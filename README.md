@@ -1,0 +1,1 @@
+Simple Rails Demo Application using scaffold.
